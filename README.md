@@ -17,7 +17,7 @@ The two figures below shows the test_reward (mean value of 5 test episodes) and 
 
 ## Videos
 At the beginning of the experiment:
-![The first episodes](./assets/start.GIF)
+![The first episodes](./assets/start.gif)
 
 Around 3000 episodes:
-![The first episodes](./assets/2_3000plus_episodes.PNG)
+![The first episodes](./assets/trained.gif)
