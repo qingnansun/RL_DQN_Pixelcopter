@@ -11,13 +11,15 @@ All the needed funcions were written in the single python file, in which:
 - The needed libraries and corresponding versions are documented in requirements.txt
 
 ## Results
-The two figures below shows the test_reward (mean value of 5 test episodes) and the max_reward (the maximum value among the 5 test episodes).
+The two figures below show the test_reward (mean value of 5 test episodes) and the max_reward (the maximum value among the 5 test episodes) at the beginning of the training and after around 300 episodes.
 ![The first episodes](./assets/1_first_episodes.PNG)
 ![The first episodes](./assets/2_3000plus_episodes.PNG)
 
 ## Videos
-At the beginning of the experiment:
+At the beginning of the experiment:  
+
 ![The first episodes](./assets/start.gif)
 
-Around 3000 episodes:
+Around 3000 episodes:  
+
 ![The first episodes](./assets/trained.gif)
