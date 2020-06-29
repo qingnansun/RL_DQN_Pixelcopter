@@ -12,5 +12,5 @@ All the needed funcions were written in the single python file, in which:
 
 ## Results
 The figures below shows the test_reward (mean value of 5 test episodes) and the max_reward (the maximum value among the 5 test episodes).
-![The first episodes](./assets/1_first_episodes.png)
-![The first episodes](./assets/2_3000plus_episodes.png)
+![The first episodes](./assets/1_first_episodes.PNG)
+![The first episodes](./assets/2_3000plus_episodes.PNG)
